@@ -15,7 +15,6 @@ local MyPluginName = "|cffc41e3aOzUI|r"
 
 --Create references to ElvUI internals
 local E, L, V, P, G = unpack(ElvUI)
-local OUI = E:GetModule('OzUI');
 
 --Create reference to LibElvUIPlugin
 local EP = LibStub("LibElvUIPlugin-1.0")
